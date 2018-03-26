@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\bin\Debug\quiznia.exe
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\bin\Debug\quiznia.pdb
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.exe
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.pdb
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.signUpForm.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.aboutForm.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.questionBank.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.answerQuestion.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.failedForm.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.successForm.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.newQuestion.resources
+c:\users\dell\documents\visual studio 2010\Projects\quiznia\quiznia\obj\x86\Debug\quiznia.myQuestions.resources
